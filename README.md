@@ -47,5 +47,5 @@ The dashboard includes the following visual analyses:
 
 ##  Dashboard Preview
 
-![HR Attrition Analytics Dashboard](Images/HR_Analytics_Dashboard.jpg)
+![HR Attrition Analytics Dashboard]([Images/HR_Analytics_Dashboard.jpg](https://github.com/PriyaDugar/hr-analytics-tableau-dashboard/blob/main/HR%20dashboard.jpg))
 
